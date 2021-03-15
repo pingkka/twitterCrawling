@@ -6,10 +6,7 @@ import twitter
 import json
 
 if __name__ == '__main__':
-    twitter_consumer_key = "qyYXPLsWfHEKv7pWaKYiB1yZy"
-    twitter_consumer_secret = "3gjwuHjujkoFgpW6Dx3MIExRQAEYn1l7ferplgP7cW4eroeGSF"
-    twitter_access_token = "1365550028786311168-oTtyhIa84e7G2GAqcYsX5ZbXP1ISVy"
-    twitter_access_secret = "GobNPVXIhL9T8Ckdwqlk1hALO00ucYyxKHzm6keIddDSK"
+    #key
 
     query = ["좋구", "좋다", "좋아"]
     output_file_name = "stream_result.txt"
